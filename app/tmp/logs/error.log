@@ -1,0 +1,176 @@
+2024-12-11 14:50:47 Error: [ParseError] syntax error, unexpected token "new"
+Request URL: /genesys_new/file_uploads/quality_documents
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(651): App::_loadVendor('Spreadsheet_Exc...', NULL, 'Excel/reader.ph...', 'php')
+#1 C:\xampp\htdocs\genesys_new\app\Controller\FileUploadsController.php(4): App::import('Vendor', 'Spreadsheet_Exc...', Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(567): include('C:\\xampp\\htdocs...')
+#3 [internal function]: App::load('FileUploadsCont...')
+#4 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(266): class_exists('FileUploadsCont...')
+#5 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#6 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\genesys_new\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2024-12-11 14:52:28 Error: [ParseError] syntax error, unexpected token "new"
+Request URL: /genesys_new/file_uploads/quality_documents
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(651): App::_loadVendor('Spreadsheet_Exc...', NULL, 'Excel/reader.ph...', 'php')
+#1 C:\xampp\htdocs\genesys_new\app\Controller\FileUploadsController.php(4): App::import('Vendor', 'Spreadsheet_Exc...', Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(567): include('C:\\xampp\\htdocs...')
+#3 [internal function]: App::load('FileUploadsCont...')
+#4 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(266): class_exists('FileUploadsCont...')
+#5 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#6 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\genesys_new\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2024-12-12 10:48:56 Error: [ParseError] syntax error, unexpected token "new"
+Request URL: /genesys_new/file_uploads/quality_documents
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(651): App::_loadVendor('Spreadsheet_Exc...', NULL, 'Excel/reader.ph...', 'php')
+#1 C:\xampp\htdocs\genesys_new\app\Controller\FileUploadsController.php(4): App::import('Vendor', 'Spreadsheet_Exc...', Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(567): include('C:\\xampp\\htdocs...')
+#3 [internal function]: App::load('FileUploadsCont...')
+#4 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(266): class_exists('FileUploadsCont...')
+#5 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#6 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\genesys_new\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2024-12-12 11:01:19 Error: Fatal Error (64): Declaration of CapaInvestigationsController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null) in [C:\xampp\htdocs\genesys_new\app\Controller\CapaInvestigationsController.php, line 454]
+2024-12-12 11:01:19 Error: [FatalErrorException] Declaration of CapaInvestigationsController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null)
+Request URL: /genesys_new/capa_investigations/capa_assigned?_=1733981479316
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 454)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 454, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 11:01:22 Error: [ParseError] syntax error, unexpected token "new"
+Request URL: /genesys_new//file_uploads/pending_view?_=1733981479319
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(651): App::_loadVendor('Spreadsheet_Exc...', NULL, 'Excel/reader.ph...', 'php')
+#1 C:\xampp\htdocs\genesys_new\app\Controller\FileUploadsController.php(4): App::import('Vendor', 'Spreadsheet_Exc...', Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(567): include('C:\\xampp\\htdocs...')
+#3 [internal function]: App::load('FileUploadsCont...')
+#4 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(266): class_exists('FileUploadsCont...')
+#5 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#6 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\genesys_new\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2024-12-12 11:01:23 Error: Fatal Error (64): Array and string offset access syntax with curly braces is no longer supported in [C:\xampp\htdocs\genesys_new\app\Controller\HistoriesController.php, line 468]
+2024-12-12 11:01:23 Error: [FatalErrorException] Array and string offset access syntax with curly braces is no longer supported
+Request URL: /genesys_new/histories/branch_guage?_=1733981479323
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 11:01:23 Error: [FatalErrorException] Array and string offset access syntax with curly braces is no longer supported
+Request URL: /genesys_new/histories/department_guage?_=1733981479321
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 11:01:25 Error: Fatal Error (64): Array and string offset access syntax with curly braces is no longer supported in [C:\xampp\htdocs\genesys_new\app\Controller\HistoriesController.php, line 468]
+2024-12-12 11:01:25 Error: [FatalErrorException] Array and string offset access syntax with curly braces is no longer supported
+Request URL: /genesys_new/histories/graph_data?_=1733981479325
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 11:07:16 Error: Fatal Error (64): Declaration of CapaInvestigationsController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null) in [C:\xampp\htdocs\genesys_new\app\Controller\CapaInvestigationsController.php, line 454]
+2024-12-12 11:07:16 Error: [InternalErrorException] Internal Server Error
+Request URL: /genesys_new/capa_investigations/capa_assigned?_=1733981836494
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 454)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 454, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 11:07:19 Error: [ParseError] syntax error, unexpected token "new"
+Request URL: /genesys_new//file_uploads/pending_view?_=1733981836495
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(651): App::_loadVendor('Spreadsheet_Exc...', NULL, 'Excel/reader.ph...', 'php')
+#1 C:\xampp\htdocs\genesys_new\app\Controller\FileUploadsController.php(4): App::import('Vendor', 'Spreadsheet_Exc...', Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(567): include('C:\\xampp\\htdocs...')
+#3 [internal function]: App::load('FileUploadsCont...')
+#4 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(266): class_exists('FileUploadsCont...')
+#5 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#6 C:\xampp\htdocs\genesys_new\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\genesys_new\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2024-12-12 11:07:20 Error: Fatal Error (64): Array and string offset access syntax with curly braces is no longer supported in [C:\xampp\htdocs\genesys_new\app\Controller\HistoriesController.php, line 468]
+2024-12-12 11:07:20 Error: [InternalErrorException] Internal Server Error
+Request URL: /genesys_new/histories/department_guage?_=1733981836499
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 11:07:20 Error: Fatal Error (64): Array and string offset access syntax with curly braces is no longer supported in [C:\xampp\htdocs\genesys_new\app\Controller\HistoriesController.php, line 468]
+2024-12-12 11:07:20 Error: [InternalErrorException] Internal Server Error
+Request URL: /genesys_new/histories/branch_guage?_=1733981836501
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 11:07:21 Error: Fatal Error (64): Array and string offset access syntax with curly braces is no longer supported in [C:\xampp\htdocs\genesys_new\app\Controller\HistoriesController.php, line 468]
+2024-12-12 11:07:21 Error: [InternalErrorException] Internal Server Error
+Request URL: /genesys_new/histories/graph_data?_=1733981836503
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Array and strin...', 'C:\\xampp\\htdocs...', 468, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 12:03:33 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /genesys_new/purchase_orders//projects/tracker
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2024-12-12 12:04:13 Error: Fatal Error (64): Declaration of InvoicesController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null) in [C:\xampp\htdocs\genesys_new\app\Controller\InvoicesController.php, line 599]
+2024-12-12 12:04:13 Error: [InternalErrorException] Internal Server Error
+Request URL: /genesys_new/invoices/lists/project_id:5ff7ebb5-e5f0-4eea-82e7-5779ac100145/type:0
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 599)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 599, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 12:05:13 Error: Fatal Error (64): Declaration of InvoicesController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null) in [C:\xampp\htdocs\genesys_new\app\Controller\InvoicesController.php, line 600]
+2024-12-12 12:05:13 Error: [InternalErrorException] Internal Server Error
+Request URL: /genesys_new/invoices/lists/project_id:5ff7ebb5-e5f0-4eea-82e7-5779ac100145/type:0
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 600)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 600, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 12:06:19 Error: Fatal Error (64): Declaration of InvoicesController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null) in [C:\xampp\htdocs\genesys_new\app\Controller\InvoicesController.php, line 599]
+2024-12-12 12:06:19 Error: [InternalErrorException] Internal Server Error
+Request URL: /genesys_new/invoices/lists/project_id:5ff7ebb5-e5f0-4eea-82e7-5779ac100145/type:0
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 599)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 599, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2024-12-12 12:06:46 Error: Fatal Error (64): Declaration of InvoicesController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null) in [C:\xampp\htdocs\genesys_new\app\Controller\InvoicesController.php, line 599]
+2024-12-12 12:06:46 Error: [FatalErrorException] Declaration of InvoicesController::delete($id = null) must be compatible with AppController::delete($id = null, $parent_id = null)
+Request URL: /genesys_new/invoices/lists/project_id:5ff7ebb5-e5f0-4eea-82e7-5779ac100145/type:0
+Stack Trace:
+#0 C:\xampp\htdocs\genesys_new\lib\Cake\Error\ErrorHandler.php(214): ErrorHandler::handleFatalError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 599)
+#1 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Declaration of ...', 'C:\\xampp\\htdocs...', 599, Array)
+#2 C:\xampp\htdocs\genesys_new\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}

@@ -1,0 +1,852 @@
+2024-12-02 13:41:53 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:41:53 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:41:53 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:45:48 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:45:48 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:45:48 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:49:47 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:49:47 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 13:49:47 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:35:49 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:35:49 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:35:49 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:35:49 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:35:49 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:35:49 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:04 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:04 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:04 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:04 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:04 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:04 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:22 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:22 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:22 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:42 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:42 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:36:42 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:37:05 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:37:05 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:37:05 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:37:05 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:37:05 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-02 14:37:05 Notice: Deprecated (16384): Validation::notEmpty() is deprecated. Use Validation::notBlank() instead. in [/var/www/html/gen/lib/Cake/Utility/Validation.php, line 60]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 232
+Validation::notEmpty() - CORE/Cake/Utility/Validation.php, line 60
+CakeValidationRule::process() - CORE/Cake/Model/Validator/CakeValidationRule.php, line 277
+CakeValidationSet::validate() - CORE/Cake/Model/Validator/CakeValidationSet.php, line 135
+ModelValidator::errors() - CORE/Cake/Model/ModelValidator.php, line 269
+ModelValidator::validates() - CORE/Cake/Model/ModelValidator.php, line 100
+Model::validates() - CORE/Cake/Model/Model.php, line 3508
+Model::_doSave() - CORE/Cake/Model/Model.php, line 1844
+Model::save() - CORE/Cake/Model/Model.php, line 1766
+AppController::_track_history() - APP/Controller/AppController.php, line 1481
+AppController::beforeFilter() - APP/Controller/AppController.php, line 198
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 244
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 687
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 189
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+CakeObject::requestAction() - CORE/Cake/Core/CakeObject.php, line 105
+include - APP/View/Elements/top-menu.ctp, line 2
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Elements/header.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Layouts/default.ctp, line 68
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 973
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 115
+
+2024-12-05 15:07:21 Debug: Notice (1024): Element Not Found: Elements\smtp.ctp in [C:\xampp\htdocs\genesys_new\lib\Cake\View\View.php, line 425]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 232
+View::element() - CORE\Cake\View\View.php, line 425
+SessionHelper::_render() - CORE\Cake\View\Helper\SessionHelper.php, line 186
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 144
+include - APP\View\Projects\index.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 973
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+CakeObject::requestAction() - CORE\Cake\Core\CakeObject.php, line 105
+RequestHandlerComponent::beforeRedirect() - CORE\Cake\Controller\Component\RequestHandlerComponent.php, line 279
+ObjectCollection::trigger() - CORE\Cake\Utility\ObjectCollection.php, line 129
+CakeEventManager::dispatch() - CORE\Cake\Event\CakeEventManager.php, line 244
+Controller::redirect() - CORE\Cake\Controller\Controller.php, line 780
+AppController::_send_approval_email() - APP\Controller\AppController.php, line 2716
+AppController::_save_approvals() - APP\Controller\AppController.php, line 2585
+ProjectsController::add_ajax() - APP\Controller\ProjectsController.php, line 1457
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 500
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 115
+
+2024-12-05 15:08:27 Debug: Notice (1024): Element Not Found: Elements\smtp.ctp in [C:\xampp\htdocs\genesys_new\lib\Cake\View\View.php, line 425]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 232
+View::element() - CORE\Cake\View\View.php, line 425
+SessionHelper::_render() - CORE\Cake\View\Helper\SessionHelper.php, line 186
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 144
+include - APP\View\Projects\index.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 973
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+CakeObject::requestAction() - CORE\Cake\Core\CakeObject.php, line 105
+RequestHandlerComponent::beforeRedirect() - CORE\Cake\Controller\Component\RequestHandlerComponent.php, line 279
+ObjectCollection::trigger() - CORE\Cake\Utility\ObjectCollection.php, line 129
+CakeEventManager::dispatch() - CORE\Cake\Event\CakeEventManager.php, line 244
+Controller::redirect() - CORE\Cake\Controller\Controller.php, line 780
+AppController::_send_approval_email() - APP\Controller\AppController.php, line 2716
+AppController::_save_approvals() - APP\Controller\AppController.php, line 2585
+ProjectsController::add_ajax() - APP\Controller\ProjectsController.php, line 1457
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 500
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 115
+

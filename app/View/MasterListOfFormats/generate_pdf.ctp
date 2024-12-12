@@ -1,0 +1,2 @@
+<?php echo $this->Html->link('Download Pdf',
+	array('controller'=>'file_uploads','action'=>'view_saved_file','path'=>base64_encode(str_replace(Configure::read('MediaPath').'files'. DS . $this->Session->read('User.company_id'). DS ,'',$link))),array('class'=>'label btn-success'));?>

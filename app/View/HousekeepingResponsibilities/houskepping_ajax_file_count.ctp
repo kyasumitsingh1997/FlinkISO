@@ -1,0 +1,1 @@
+<?php echo $task_approval_files_count ; ?>

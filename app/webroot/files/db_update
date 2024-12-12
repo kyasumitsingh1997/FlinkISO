@@ -1,0 +1,5 @@
+ALTER TABLE `qb`.`questions` 
+ADD COLUMN `standard` VARCHAR(45) NULL AFTER `upload_id`,
+ADD COLUMN `clause` VARCHAR(45) NULL AFTER `standard`;
+
+ALTER TABLE `non_conforming_products_materials` ADD `process_id` varchar(36) NULL AFTER `procedure_id`;
